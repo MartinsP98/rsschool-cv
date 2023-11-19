@@ -13,8 +13,8 @@ print("hello, world")
 ### Expieriance
 Priekulu IT tehnikums pyhton
 ### Education
-Priekulu it tehnikums(2017)
-Rigas neklatiene high school (2018) 
+*Priekulu it tehnikums(2017)
+*Rigas neklatiene high school (2018) 
 ### Courses
 * Python Programming Fundamentals - [Coursera](https://www.coursera.org/learn/python-programming-fundamentals)
 ### Languages
