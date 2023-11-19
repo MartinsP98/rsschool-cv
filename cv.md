@@ -8,7 +8,7 @@ After studying in Latvia at Priekuli Technical School, I joined the military. Wh
 ### Skills
 * Pyhton
 * HTML & CSS
-### _Code example_rgb(110 ,5 ,25)
+### _Code example_
 print("hello, world")
 ### Expieriance
 Priekulu IT tehnikums pyhton
