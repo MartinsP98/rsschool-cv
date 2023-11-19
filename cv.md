@@ -1,4 +1,4 @@
-## **rsschool-cv**
+## rsschool-cv
 # Martins Petersons
 ### Contacts  
 GitHub: https://github.com/MartinsP98  
