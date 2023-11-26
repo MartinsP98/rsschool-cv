@@ -1,1 +1,1 @@
-# [rsschool-cv](https://github.com/MartinsP98/rsschool-cv/blob/gh-pages/cv.md)
+#https://GITHUB-Martinsp98.github.io/rsschool-cv/
