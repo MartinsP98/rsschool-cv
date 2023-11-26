@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Martins Petersons - CV</title>
+</head>
+<body>
+
+    <header>
+        <h1>Martins Petersons</h1>
+        <p>GitHub: <a href="https://github.com/MartinsP98">https://github.com/MartinsP98</a></p>
+        <p>Email: awergo98@gmail.com</p>
+    </header>
+
+    <section id="summary">
+        <h2>Summary</h2>
+        <p>
+            After studying in Latvia at Priekuli Technical School, I joined the military.
+            While my military years have provided valuable experiences, I now wish to return to my roots in computer science.
+            I have a keen interest in computer science and am determined to update my knowledge, taking a step back into the field.
+            I am ready to put in the effort to continue my education in this area, developing my skills for a career change that aligns with my passion for computer science.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Python</li>
+            <li>HTML & CSS</li>
+        </ul>
+    </section>
+
+    <section id="code-example">
+        <h2>Code Example</h2>
+        <pre><code>print("hello, world")</code></pre>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <p>Priekulu IT tehnikums - Python</p>
+        <!-- Add more experience entries as needed -->
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li>Priekulu IT Tehnikums (2017)</li>
+            <li>Rigas Neklatiene High School (2018)</li>
+        </ul>
+    </section>
+
+    <section id="courses">
+        <h2>Courses</h2>
+        <ul>
+            <li>Python Programming Fundamentals - <a href="https://www.coursera.org/learn/python-programming-fundamentals">Coursera</a></li>
+        </ul>
+    </section>
+
+    <section id="languages">
+        <h2>Languages</h2>
+        <ul>
+            <li>Latvian (Native)</li>
+            <li>English (C1 level)</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Martins Petersons | <a href="https://github.com/MartinsP98">GitHub</a></p>
+    </footer>
+
+</body>
+</html>
