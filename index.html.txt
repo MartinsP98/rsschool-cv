@@ -32,7 +32,7 @@ Priekulu IT tehnikums pyhton
 
 </body>
 <footer>
-    <p>Link to your GitHub: <a href="https://github.com/MartinsP98">https://github.com/MartinsP98</a></p>
+    <p>Link to your GitHub: <a href="https://martinsp98.github.io/rsschool-cv/">https://martinsp98.github.io/rsschool-cv/</a></p>
     <p>Date: <27.11.2023 --></p>
     <p><a href="LINK-TO-COURSE-LOGO">Course Logo</a></p>
 </footer>
