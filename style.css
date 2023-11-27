@@ -35,6 +35,11 @@ nav a {
     }
 }
 
+/* Add this new rule to prevent the items from going out of the bar */
+nav {
+    overflow: hidden;
+}
+
 #content {
     max-width: 800px;
     width: 90%;
