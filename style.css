@@ -68,3 +68,32 @@ nav a {
     font-weight: bold;
     padding: 5px 10px;
     {
+    body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 15px; /* Add spacing between the items */
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px; /* Add padding to make the clickable area larger */
+}
+
