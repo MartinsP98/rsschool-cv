@@ -19,6 +19,7 @@ nav ul {
     padding: 0;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap; /* Allow items to wrap to the next line if needed */
 }
 
 nav li {
@@ -30,6 +31,7 @@ nav a {
     color: white;
     font-weight: bold;
     padding: 5px 10px;
+    white-space: nowrap; /* Prevent text from wrapping */
 }
 
 /* Responsive Navigation Styles */
@@ -40,7 +42,7 @@ nav a {
 }
 
 nav {
-    overflow: hidden;
+    overflow: auto; /* Add a scrollbar if the content is too wide */
 }
 
 /* Content Styles */
@@ -51,6 +53,7 @@ nav {
     padding: 20px;
     background-color: #ffffff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center text in the content block */
 }
 
 /* Heading and Paragraph Styles */
@@ -61,6 +64,16 @@ h1, h2, p {
 /* Section Styles */
 section {
     margin-bottom: 20px;
+    text-align: left; /* Align section content to the left */
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
 }
 
 /* Footer Styles */
