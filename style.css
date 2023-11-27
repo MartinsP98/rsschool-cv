@@ -19,7 +19,7 @@ nav ul {
 }
 
 nav li {
-    margin: 0 15px; /* Add spacing between the items */
+    margin: 0 10px; /* Add spacing between the items */
 }
 
 nav a {
@@ -31,7 +31,7 @@ nav a {
 
 @media screen and (max-width: 600px) {
     nav li {
-        margin: 0 10px; /* Adjust for smaller screens */
+        margin: 0 5px; /* Adjust for smaller screens */
     }
 }
 
