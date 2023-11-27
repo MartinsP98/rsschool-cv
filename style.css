@@ -1,15 +1,18 @@
+/* Global Styles */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f5f5f5;
 }
 
+/* Header Styles */
 header {
     background-color: #333;
     padding: 10px;
     text-align: center;
 }
 
+/* Navigation Styles */
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -19,7 +22,7 @@ nav ul {
 }
 
 nav li {
-    margin: 0 10px; /* Add spacing between the items */
+    margin: 0 10px;
 }
 
 nav a {
@@ -29,17 +32,18 @@ nav a {
     padding: 5px 10px;
 }
 
+/* Responsive Navigation Styles */
 @media screen and (max-width: 600px) {
     nav li {
-        margin: 0 5px; /* Adjust for smaller screens */
+        margin: 0 5px;
     }
 }
 
-/* Add this new rule to prevent the items from going out of the bar */
 nav {
     overflow: hidden;
 }
 
+/* Content Styles */
 #content {
     max-width: 800px;
     width: 90%;
@@ -49,28 +53,23 @@ nav {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Heading and Paragraph Styles */
 h1, h2, p {
     margin: 0;
 }
 
+/* Section Styles */
 section {
     margin-bottom: 20px;
 }
 
-h2 {
-    color: #333;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
+/* Footer Styles */
 footer {
     margin-top: 20px;
     text-align: center;
 }
 
+/* Footer Anchor Styles */
 footer a {
     color: #333;
     text-decoration: none;
