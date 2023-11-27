@@ -7,6 +7,9 @@ header {
     background-color: #333;
     padding: 10px;
 }
+.name {
+    color: white;
+}
 
 nav ul {
     list-style-type: none;
