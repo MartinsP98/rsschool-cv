@@ -24,6 +24,8 @@ nav ul {
 
 nav li {
     margin: 5px; /* Add some margin around each list item */
+    flex: 1; /* Equal width for each column */
+    text-align: center; /* Center text within the column */
 }
 
 nav a {
@@ -36,14 +38,14 @@ nav a {
 
 /* Responsive Navigation Styles */
 @media screen and (max-width: 600px) {
-    nav {
-        flex-direction: column; /* Stack items vertically for smaller screens */
-        align-items: center; /* Center items on smaller screens */
-    }
-
     nav li {
-        margin: 5px 0; /* Adjust margin for smaller screens */
+        flex: 100%; /* Full width for smaller screens */
+        text-align: left; /* Align text to the left on smaller screens */
     }
+}
+
+nav {
+    overflow: auto; /* Add a scrollbar if the content is too wide */
 }
 
 /* Content Styles */
